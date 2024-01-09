@@ -41,7 +41,7 @@
 1. 연구 진행
     - makeupCLIP 가상 Architecture
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13a365f2-89da-4c3a-be38-71b2f46d63a6/Untitled.png)
+        ![image](https://github.com/statrav/Datastructure/assets/109338312/ea27afb3-fb68-492f-8aae-c65960e380cb)
         
         - Backbone : SCGAN architecture
         - Delete Element : y_eyes, y_skin
@@ -54,15 +54,13 @@
 - 가상 실험
     - 가정 1. 단순 Concept Language Input
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fadda56a-b45a-46e2-a7b4-ade58af2715a/Untitled.png)
+        ![image](https://github.com/statrav/Datastructure/assets/109338312/eb904ce9-47b8-44cc-9339-3018f19fa88e)
         
     - 가정 2. Input 자연어에 Constrict 두기
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f196029-8cd8-421e-bc15-069a8d3df5a5/Untitled.png)
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8be11654-718f-4cee-a9c8-9cf74d20bd4a/Untitled.png)
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c801ba5d-7c20-4d6e-841f-8d9369107b99/Untitled.png)
+        ![image](https://github.com/statrav/Datastructure/assets/109338312/b159d134-182c-4f41-8b5f-32f462f7a6fc)
+        ![image](https://github.com/statrav/Datastructure/assets/109338312/59f418e6-8653-4232-a456-fce991b4ddf5)
+        ![image](https://github.com/statrav/Datastructure/assets/109338312/9c7de5da-0929-41a9-bfe3-726ac46819fe)
         
 
 - Limitation
